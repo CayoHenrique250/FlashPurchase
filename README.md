@@ -32,7 +32,7 @@
 
 <b>Para a criação do site e da elaboração da parte gráfica, utilizei algumas ferramentas do pacote adobe, tais como: </b>
 
-<img align="right" width="200px" src="img_readme/adobe-logo.png">
+<img align="right" width="170px" src="img_readme/adobe-logo.png">
 
 <br>
 
