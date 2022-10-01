@@ -14,9 +14,31 @@
 
 <br>
 
-<b>TCC - Microcamp</b>
-
-
+<b>👨‍🎓 TCC - Microcamp</b>
 
 ---
+
+<h2>👨‍💻 Detalhes técnicos: </h2>
+
+##
+
+<p>Isso tratou-se se um <b>Trabalho de Conclusão do Curso (TCC)</b> onde possuia como objetivo demonstrar todas as habilidades adquiridas durante o desenvolvimento do curso.</p>
+
+---
+
+<h4>💿 Ficha técnica: </h4>
+
+##
+
+<b>Para a criação do site e da elaboração da parte gráfica, utilizei algumas ferramentas do pacote adobe, tais como: </b>
+
+<img align="right" width="200px" src="images/logo_flashpurchase.png">
+
+<br>
+
+- Adobe Muse;
+- Adobe Illustrator;
+- Adobe Photoshop;
+- Adobe Animator;
+- Adobe Premiere.
 
