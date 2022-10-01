@@ -1,0 +1,1343 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="flashpurchase.com" resolutions="1x" timestamp="1625677637306">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-mestre.css" crc="4105698716" ref="index:acessorios:carrinho:home:maquiagem:livros:eletrônicos"/>
+    <file name="nomq_preview_master_a-mestre.css" crc="34969728" ref="index:acessorios:carrinho:home:maquiagem:livros:eletrônicos"/>
+    <file name="index.css" crc="4019137119" ref="index"/>
+    <file name="nomq_index.css" crc="377996064" ref="index"/>
+    <file name="acessorios.css" crc="3890812195" ref="acessorios"/>
+    <file name="nomq_acessorios.css" crc="3921742951" ref="acessorios"/>
+    <file name="carrinho.css" crc="3778645155" ref="carrinho"/>
+    <file name="nomq_carrinho.css" crc="57652605" ref="carrinho"/>
+    <file name="home.css" crc="3841494794" ref="home"/>
+    <file name="nomq_home.css" crc="446766591" ref="home"/>
+    <file name="maquiagem.css" crc="121482420" ref="maquiagem"/>
+    <file name="nomq_maquiagem.css" crc="300684512" ref="maquiagem"/>
+    <file name="livros.css" crc="509325350" ref="livros"/>
+    <file name="nomq_livros.css" crc="3781242915" ref="livros"/>
+    <file name="eletr_nicos.css" crc="529214079" ref="eletrônicos"/>
+    <file name="nomq_eletr_nicos.css" crc="3862146489" ref="eletrônicos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho"/>
+    <file name="museutils.js" crc="340535759" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho"/>
+    <file name="whatinput.js" crc="86476730" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u184.php" crc="114249321" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho"/>
+    <file name="require.js" crc="7928878" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_flashpurchase84x71.png" crc="482870645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u107-7.png" crc="4042549503" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho"/>
+    <file name="carrinho.png" crc="3978709277" seo="true" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho">
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u169-7.png" crc="267640903" ref="index"/>
+    <file name="logo_flashpurchase.png" crc="3962240645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:home:acessorios:eletrônicos:livros:maquiagem:carrinho"/>
+    <file name="u199.png" crc="4090358318" ref="index"/>
+    <file name="u199-ferr.png" crc="3901775651" ref="index"/>
+    <file name="u188.png" crc="4053757270" ref="index"/>
+    <file name="u188-ferr.png" crc="4046383214" ref="index"/>
+    <file name="u251.png" crc="451075521" ref="index"/>
+    <file name="u251-ferr.png" crc="3922933369" ref="index"/>
+    <file name="u563-4.png" crc="411893057" ref="index"/>
+    <file name="logo_flashpurchase73x62.png" crc="169277197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u169-72.png" crc="3817622785" ref="index"/>
+    <file name="logo_flashpurchase523x441.png" crc="3962240645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1992.png" crc="3826103405" ref="index"/>
+    <file name="u199-ferr2.png" crc="4078439811" ref="index"/>
+    <file name="u1882.png" crc="4083874265" ref="index"/>
+    <file name="u188-ferr2.png" crc="500737256" ref="index"/>
+    <file name="u2512.png" crc="91278777" ref="index"/>
+    <file name="u251-ferr2.png" crc="4186209743" ref="index"/>
+    <file name="u563-42.png" crc="4115449722" ref="index"/>
+    <file name="logo_flashpurchase62x52.png" crc="3813565137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u169-73.png" crc="328308402" ref="index"/>
+    <file name="logo_flashpurchase442x373.png" crc="14167773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1993.png" crc="68393593" ref="index"/>
+    <file name="u199-ferr3.png" crc="4177033729" ref="index"/>
+    <file name="u1883.png" crc="169765165" ref="index"/>
+    <file name="u188-ferr3.png" crc="4248116930" ref="index"/>
+    <file name="u2513.png" crc="206054474" ref="index"/>
+    <file name="u251-ferr3.png" crc="4222991520" ref="index"/>
+    <file name="u563-43.png" crc="4259798767" ref="index"/>
+    <file name="logo_flashpurchase59x50.png" crc="223641358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u169-74.png" crc="4163678096" ref="index"/>
+    <file name="logo_flashpurchase418x353.png" crc="379960396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1994.png" crc="84914958" ref="index"/>
+    <file name="u199-ferr4.png" crc="507058971" ref="index"/>
+    <file name="u1884.png" crc="4002853883" ref="index"/>
+    <file name="u188-ferr4.png" crc="4117361190" ref="index"/>
+    <file name="u2514.png" crc="4185317916" ref="index"/>
+    <file name="u251-ferr4.png" crc="4246660569" ref="index"/>
+    <file name="u563-44.png" crc="360046618" ref="index"/>
+    <file name="logo_flashpurchase59x49.png" crc="223641358" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u169-75.png" crc="4290081486" ref="index"/>
+    <file name="logo_flashpurchase322x271.png" crc="4167230465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1995.png" crc="155630572" ref="index"/>
+    <file name="u199-ferr5.png" crc="79360406" ref="index"/>
+    <file name="u1885.png" crc="4131892572" ref="index"/>
+    <file name="u188-ferr5.png" crc="360944308" ref="index"/>
+    <file name="u2515.png" crc="275219579" ref="index"/>
+    <file name="u251-ferr5.png" crc="4155586810" ref="index"/>
+    <file name="u563-45.png" crc="331271658" ref="index"/>
+    <file name="u667-4.png" crc="342642884" ref="home"/>
+    <file name="acesso-crop-u706.jpg" crc="393133574" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u739-4.png" crc="4238937843" ref="home"/>
+    <file name="u754-4.png" crc="435821428" ref="home"/>
+    <file name="eletro-crop-u720.jpg" crc="133384521" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u770-4.png" crc="47945817" ref="home"/>
+    <file name="livro-crop-u795.jpg" crc="374544425" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u786-4.png" crc="3880063413" ref="home"/>
+    <file name="maquiagem-crop-u809.jpg" crc="3845542049" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u667-42.png" crc="161815637" ref="home"/>
+    <file name="acesso-crop-u7062.jpg" crc="4068374396" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u739-42.png" crc="4225853121" ref="home"/>
+    <file name="u754-42.png" crc="275793623" ref="home"/>
+    <file name="eletro-crop-u7202.jpg" crc="45271665" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u770-42.png" crc="173158374" ref="home"/>
+    <file name="livro-crop-u7952.jpg" crc="3871734066" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u786-42.png" crc="4230740389" ref="home"/>
+    <file name="maquiagem-crop-u8092.jpg" crc="202830510" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u667-43.png" crc="275546047" ref="home"/>
+    <file name="acesso-crop-u7063.jpg" crc="436397968" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u739-43.png" crc="3967898605" ref="home"/>
+    <file name="u754-43.png" crc="4086191575" ref="home"/>
+    <file name="eletro-crop-u7203.jpg" crc="461316528" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u770-43.png" crc="295229096" ref="home"/>
+    <file name="livro-crop-u7953.jpg" crc="391811506" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u786-43.png" crc="3823868972" ref="home"/>
+    <file name="maquiagem-crop-u8093.jpg" crc="330182655" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u667-44.png" crc="428758922" ref="home"/>
+    <file name="acesso-crop-u7064.jpg" crc="3960979021" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u739-44.png" crc="3959315347" ref="home"/>
+    <file name="u754-44.png" crc="4245705461" ref="home"/>
+    <file name="eletro-crop-u7204.jpg" crc="3955110437" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u770-44.png" crc="4137906787" ref="home"/>
+    <file name="livro-crop-u7954.jpg" crc="3925794479" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u786-44.png" crc="488455092" ref="home"/>
+    <file name="maquiagem-crop-u8094.jpg" crc="77647166" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u667-45.png" crc="68404978" ref="home"/>
+    <file name="acesso-crop-u7065.jpg" crc="4065249854" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u739-45.png" crc="219942494" ref="home"/>
+    <file name="u754-45.png" crc="409386437" ref="home"/>
+    <file name="eletro-crop-u7205.jpg" crc="4205474753" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u770-45.png" crc="143021907" ref="home"/>
+    <file name="livro-crop-u7955.jpg" crc="4112845339" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u786-45.png" crc="418441885" ref="home"/>
+    <file name="maquiagem-crop-u8095.jpg" crc="86784307" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u1215-4.png" crc="424924369" ref="acessorios"/>
+    <file name="bone_11,99.jpg" crc="159166332" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1303-4.png" crc="355213692" ref="acessorios"/>
+    <file name="carrinho-crop-u1318.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1331-4.png" crc="195571402" ref="acessorios"/>
+    <file name="chapeu_bucket_7,45.jpg" crc="2833006" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1433-4.png" crc="231351947" ref="acessorios"/>
+    <file name="u1437-4.png" crc="195571402" ref="acessorios"/>
+    <file name="u1955-4.png" crc="195571402" ref="acessorios"/>
+    <file name="u2093-4.png" crc="195571402" ref="acessorios"/>
+    <file name="u2140-4.png" crc="195571402" ref="acessorios"/>
+    <file name="u2046-4.png" crc="195571402" ref="acessorios"/>
+    <file name="u2382-4.png" crc="195571402" ref="acessorios"/>
+    <file name="u2420-4.png" crc="195571402" ref="acessorios"/>
+    <file name="u2464-4.png" crc="195571402" ref="acessorios"/>
+    <file name="u2502-4.png" crc="195571402" ref="acessorios"/>
+    <file name="carrinho-crop-u1445.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="carrinho-crop-u1936.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="carrinho-crop-u2075.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="carrinho-crop-u2122.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="carrinho-crop-u2028.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="carrinho-crop-u2363.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="carrinho-crop-u2401.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="carrinho-crop-u2485.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="carrinho-crop-u2523.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="bandana_5,99.jpg" crc="4214868430" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1510-4.png" crc="281245463" ref="acessorios"/>
+    <file name="carrinho-crop-u2714.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u2733-4.png" crc="195571402" ref="acessorios"/>
+    <file name="mascara_2,99.jpg" crc="104806234" seo="true" ref="acessorios:carrinho">
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u1465-4.png" crc="4234108754" ref="acessorios"/>
+    <file name="carrinho-crop-u2752.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u2771-4.png" crc="195571402" ref="acessorios"/>
+    <file name="xuxinha scrunchies de cabelo prendedor de cabelo - 2,99.jpg" crc="4203156214" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1513-4.png" crc="159777340" ref="acessorios"/>
+    <file name="carrinho-crop-u2813.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u2792-4.png" crc="195571402" ref="acessorios"/>
+    <file name="oculos-de-sol-hupi-luppa-armacao-preto-fosco-lente-verde-6275 (10,00)-crop-u1263.jpg" crc="192918277" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1529-4.png" crc="411939681" ref="acessorios"/>
+    <file name="carrinho-crop-u2851.png" crc="4082012187" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u2829-4.png" crc="195571402" ref="acessorios"/>
+    <file name="u1215-42.png" crc="3848892461" ref="acessorios"/>
+    <file name="u1303-42.png" crc="4120117766" ref="acessorios"/>
+    <file name="u1331-42.png" crc="341537008" ref="acessorios"/>
+    <file name="u2733-42.png" crc="341537008" ref="acessorios"/>
+    <file name="u2792-42.png" crc="341537008" ref="acessorios"/>
+    <file name="u2829-42.png" crc="341537008" ref="acessorios"/>
+    <file name="u2771-42.png" crc="341537008" ref="acessorios"/>
+    <file name="carrinho2.png" crc="67126858" seo="true" ref="acessorios:eletrônicos:livros:maquiagem:carrinho">
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="acessorios" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u1433-42.png" crc="443542113" ref="acessorios"/>
+    <file name="u1437-42.png" crc="341537008" ref="acessorios"/>
+    <file name="u1955-42.png" crc="341537008" ref="acessorios"/>
+    <file name="u2093-42.png" crc="341537008" ref="acessorios"/>
+    <file name="u2140-42.png" crc="341537008" ref="acessorios"/>
+    <file name="u2046-42.png" crc="341537008" ref="acessorios"/>
+    <file name="u1465-42.png" crc="4280872736" ref="acessorios"/>
+    <file name="u2382-42.png" crc="4075008466" ref="acessorios"/>
+    <file name="bandana_5,99129x128.jpg" crc="4275707209" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1510-42.png" crc="279771315" ref="acessorios"/>
+    <file name="u2502-42.png" crc="4075008466" ref="acessorios"/>
+    <file name="u1513-42.png" crc="428960521" ref="acessorios"/>
+    <file name="u2464-42.png" crc="64218072" ref="acessorios"/>
+    <file name="oculos-de-sol-hupi-luppa-armacao-preto-fosco-lente-verde-6275 (10,00)-crop-u12632.jpg" crc="4058416496" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1529-42.png" crc="3786826048" ref="acessorios"/>
+    <file name="u2420-42.png" crc="64218072" ref="acessorios"/>
+    <file name="u1215-43.png" crc="4023737056" ref="acessorios"/>
+    <file name="u1303-43.png" crc="4268280077" ref="acessorios"/>
+    <file name="u1331-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u2733-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u2792-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u2829-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u2771-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u1433-43.png" crc="4115854692" ref="acessorios"/>
+    <file name="u1437-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u1955-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u2093-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u2140-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u2046-43.png" crc="195468699" ref="acessorios"/>
+    <file name="u1465-43.png" crc="4035714284" ref="acessorios"/>
+    <file name="u2382-43.png" crc="500792026" ref="acessorios"/>
+    <file name="bandana_5,99109x108.jpg" crc="4105360616" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1510-43.png" crc="114809059" ref="acessorios"/>
+    <file name="u2502-43.png" crc="500792026" ref="acessorios"/>
+    <file name="u1513-43.png" crc="3847940536" ref="acessorios"/>
+    <file name="u2464-43.png" crc="500792026" ref="acessorios"/>
+    <file name="oculos-de-sol-hupi-luppa-armacao-preto-fosco-lente-verde-6275 (10,00)-crop-u12633.jpg" crc="6492652" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1529-43.png" crc="4182295551" ref="acessorios"/>
+    <file name="u2420-43.png" crc="500792026" ref="acessorios"/>
+    <file name="u1215-44.png" crc="384955001" ref="acessorios"/>
+    <file name="u1303-44.png" crc="3810538072" ref="acessorios"/>
+    <file name="u1331-44.png" crc="460727319" ref="acessorios"/>
+    <file name="u2733-44.png" crc="460727319" ref="acessorios"/>
+    <file name="u2792-44.png" crc="460727319" ref="acessorios"/>
+    <file name="u2829-44.png" crc="460727319" ref="acessorios"/>
+    <file name="u2771-44.png" crc="460727319" ref="acessorios"/>
+    <file name="u1433-44.png" crc="318708116" ref="acessorios"/>
+    <file name="u1437-44.png" crc="4043686443" ref="acessorios"/>
+    <file name="bandana_5,9994x93.jpg" crc="91564184" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1510-44.png" crc="4032728689" ref="acessorios"/>
+    <file name="u2046-44.png" crc="4043686443" ref="acessorios"/>
+    <file name="u2382-44.png" crc="4043686443" ref="acessorios"/>
+    <file name="u2420-44.png" crc="4043686443" ref="acessorios"/>
+    <file name="u2464-44.png" crc="4043686443" ref="acessorios"/>
+    <file name="u2502-44.png" crc="4043686443" ref="acessorios"/>
+    <file name="u1465-44.png" crc="184321571" ref="acessorios"/>
+    <file name="u1955-44.png" crc="4043686443" ref="acessorios"/>
+    <file name="u1513-44.png" crc="3769339000" ref="acessorios"/>
+    <file name="u2140-44.png" crc="4043686443" ref="acessorios"/>
+    <file name="oculos-de-sol-hupi-luppa-armacao-preto-fosco-lente-verde-6275 (10,00)-crop-u12634.jpg" crc="4176313415" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1529-44.png" crc="299389606" ref="acessorios"/>
+    <file name="u2093-44.png" crc="4043686443" ref="acessorios"/>
+    <file name="u1215-45.png" crc="4400707" ref="acessorios"/>
+    <file name="u1303-45.png" crc="395683506" ref="acessorios"/>
+    <file name="u1331-45.png" crc="516663746" ref="acessorios"/>
+    <file name="u2733-45.png" crc="516663746" ref="acessorios"/>
+    <file name="u2792-45.png" crc="516663746" ref="acessorios"/>
+    <file name="u2829-45.png" crc="516663746" ref="acessorios"/>
+    <file name="u2771-45.png" crc="516663746" ref="acessorios"/>
+    <file name="u1433-45.png" crc="244068977" ref="acessorios"/>
+    <file name="u1437-45.png" crc="4067851632" ref="acessorios"/>
+    <file name="bandana_5,9973x72.jpg" crc="354389607" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1510-45.png" crc="420785227" ref="acessorios"/>
+    <file name="u2046-45.png" crc="4067851632" ref="acessorios"/>
+    <file name="u2382-45.png" crc="4067851632" ref="acessorios"/>
+    <file name="u2420-45.png" crc="4067851632" ref="acessorios"/>
+    <file name="u2464-45.png" crc="4067851632" ref="acessorios"/>
+    <file name="u2502-45.png" crc="4067851632" ref="acessorios"/>
+    <file name="u1465-45.png" crc="397659807" ref="acessorios"/>
+    <file name="u1955-45.png" crc="4067851632" ref="acessorios"/>
+    <file name="u1513-45.png" crc="3894652844" ref="acessorios"/>
+    <file name="u2140-45.png" crc="4067851632" ref="acessorios"/>
+    <file name="oculos-de-sol-hupi-luppa-armacao-preto-fosco-lente-verde-6275 (10,00)-crop-u12635.jpg" crc="3923192593" seo="true" ref="acessorios">
+      <caption webpage="acessorios" alt=""/>
+    </file>
+    <file name="u1529-45.png" crc="409777634" ref="acessorios"/>
+    <file name="u2093-45.png" crc="4067851632" ref="acessorios"/>
+    <file name="u3481-4.png" crc="332551307" ref="eletrônicos"/>
+    <file name="ring_light_23,88-crop-u3961.jpg" crc="172927508" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3488-4.png" crc="390997399" ref="eletrônicos"/>
+    <file name="carrinho-crop-u3474.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3438-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="lampada_luz_led_rgb_bluetooth_musica_caixa_som_controle_34,60.jpg" crc="4215945362" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3469-4.png" crc="3908689508" ref="eletrônicos"/>
+    <file name="u3463-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3395-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3429-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3478-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3415-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3425-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3381-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3441-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3453-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="carrinho-crop-u3421.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="carrinho-crop-u3434.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="carrinho-crop-u3456.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="carrinho-crop-u3388.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="carrinho-crop-u3472.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="carrinho-crop-u3426.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="carrinho-crop-u3442.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="carrinho-crop-u3431.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="carrinho-crop-u3470.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="ring_light_celular_2,99-crop-u3968.jpg" crc="3886671328" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3458-4.png" crc="281245463" ref="eletrônicos"/>
+    <file name="carrinho-crop-u3402.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3450-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="fone de ouvido sem fio i12_2199.jpg" crc="3858877297" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="carrinho-crop-u3392.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3407-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3375-4.png" crc="4028075559" ref="eletrônicos"/>
+    <file name="caixa_som_bluetooth_jbl_599,99-crop-u3932.jpg" crc="220435832" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3446-4.png" crc="250049109" ref="eletrônicos"/>
+    <file name="carrinho-crop-u3397.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3486-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="echo_dot_smartspeaker_alexa_170,99.jpg" crc="200617609" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3416-4.png" crc="3869193885" ref="eletrônicos"/>
+    <file name="carrinho-crop-u3400.png" crc="4082012187" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3411-4.png" crc="195571402" ref="eletrônicos"/>
+    <file name="u3481-42.png" crc="107937342" ref="eletrônicos"/>
+    <file name="ring_light_23,88-crop-u39612.jpg" crc="4203722908" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3488-42.png" crc="38963399" ref="eletrônicos"/>
+    <file name="u3438-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="u3450-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="u3486-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="u3411-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="u3407-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="u3469-42.png" crc="4240731137" ref="eletrônicos"/>
+    <file name="u3463-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="u3395-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="u3429-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="u3478-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="u3453-42.png" crc="341537008" ref="eletrônicos"/>
+    <file name="ring_light_celular_2,99-crop-u39682.jpg" crc="284686330" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3375-42.png" crc="3998521858" ref="eletrônicos"/>
+    <file name="u3415-42.png" crc="4075008466" ref="eletrônicos"/>
+    <file name="u3458-42.png" crc="279771315" ref="eletrônicos"/>
+    <file name="u3441-42.png" crc="4075008466" ref="eletrônicos"/>
+    <file name="caixa_som_bluetooth_jbl_599,99-crop-u39322.jpg" crc="4122893439" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3446-42.png" crc="98933705" ref="eletrônicos"/>
+    <file name="u3381-42.png" crc="64218072" ref="eletrônicos"/>
+    <file name="u3416-42.png" crc="490290634" ref="eletrônicos"/>
+    <file name="u3425-42.png" crc="64218072" ref="eletrônicos"/>
+    <file name="u3481-43.png" crc="303589286" ref="eletrônicos"/>
+    <file name="ring_light_23,88-crop-u39613.jpg" crc="449216688" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3488-43.png" crc="412009528" ref="eletrônicos"/>
+    <file name="u3438-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="u3450-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="u3486-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="u3411-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="u3407-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="u3469-43.png" crc="3986880374" ref="eletrônicos"/>
+    <file name="u3463-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="u3395-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="u3429-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="u3478-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="u3453-43.png" crc="195468699" ref="eletrônicos"/>
+    <file name="ring_light_celular_2,99-crop-u39683.jpg" crc="195639549" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3375-43.png" crc="314224495" ref="eletrônicos"/>
+    <file name="u3415-43.png" crc="500792026" ref="eletrônicos"/>
+    <file name="u3458-43.png" crc="114809059" ref="eletrônicos"/>
+    <file name="u3441-43.png" crc="500792026" ref="eletrônicos"/>
+    <file name="caixa_som_bluetooth_jbl_599,99-crop-u39323.jpg" crc="281232076" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3446-43.png" crc="4034426112" ref="eletrônicos"/>
+    <file name="u3381-43.png" crc="500792026" ref="eletrônicos"/>
+    <file name="u3416-43.png" crc="409999036" ref="eletrônicos"/>
+    <file name="u3425-43.png" crc="500792026" ref="eletrônicos"/>
+    <file name="u3481-44.png" crc="3771530308" ref="eletrônicos"/>
+    <file name="ring_light_23,88-crop-u39614.jpg" crc="3853214798" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3488-44.png" crc="142025821" ref="eletrônicos"/>
+    <file name="u3438-44.png" crc="460727319" ref="eletrônicos"/>
+    <file name="u3450-44.png" crc="460727319" ref="eletrônicos"/>
+    <file name="u3486-44.png" crc="460727319" ref="eletrônicos"/>
+    <file name="u3411-44.png" crc="460727319" ref="eletrônicos"/>
+    <file name="u3407-44.png" crc="460727319" ref="eletrônicos"/>
+    <file name="u3469-44.png" crc="84750589" ref="eletrônicos"/>
+    <file name="u3463-44.png" crc="4043686443" ref="eletrônicos"/>
+    <file name="ring_light_celular_2,99-crop-u39684.jpg" crc="446781437" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3458-44.png" crc="4032728689" ref="eletrônicos"/>
+    <file name="u3478-44.png" crc="4043686443" ref="eletrônicos"/>
+    <file name="u3415-44.png" crc="4043686443" ref="eletrônicos"/>
+    <file name="u3425-44.png" crc="4043686443" ref="eletrônicos"/>
+    <file name="u3381-44.png" crc="4043686443" ref="eletrônicos"/>
+    <file name="u3441-44.png" crc="4043686443" ref="eletrônicos"/>
+    <file name="u3375-44.png" crc="408690038" ref="eletrônicos"/>
+    <file name="u3453-44.png" crc="4043686443" ref="eletrônicos"/>
+    <file name="caixa_som_bluetooth_jbl_599,99-crop-u39324.jpg" crc="3848819803" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3446-44.png" crc="48022544" ref="eletrônicos"/>
+    <file name="u3429-44.png" crc="4043686443" ref="eletrônicos"/>
+    <file name="u3416-44.png" crc="4036332911" ref="eletrônicos"/>
+    <file name="u3395-44.png" crc="4043686443" ref="eletrônicos"/>
+    <file name="u3481-45.png" crc="4100506686" ref="eletrônicos"/>
+    <file name="ring_light_23,88-crop-u39615.jpg" crc="3950936947" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3488-45.png" crc="3880053370" ref="eletrônicos"/>
+    <file name="u3438-45.png" crc="516663746" ref="eletrônicos"/>
+    <file name="u3450-45.png" crc="516663746" ref="eletrônicos"/>
+    <file name="u3486-45.png" crc="516663746" ref="eletrônicos"/>
+    <file name="u3411-45.png" crc="516663746" ref="eletrônicos"/>
+    <file name="u3407-45.png" crc="516663746" ref="eletrônicos"/>
+    <file name="u3469-45.png" crc="4189898700" ref="eletrônicos"/>
+    <file name="u3463-45.png" crc="4067851632" ref="eletrônicos"/>
+    <file name="ring_light_celular_2,99-crop-u39685.jpg" crc="155113198" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3458-45.png" crc="420785227" ref="eletrônicos"/>
+    <file name="u3478-45.png" crc="4067851632" ref="eletrônicos"/>
+    <file name="u3415-45.png" crc="4067851632" ref="eletrônicos"/>
+    <file name="u3425-45.png" crc="4067851632" ref="eletrônicos"/>
+    <file name="u3381-45.png" crc="4067851632" ref="eletrônicos"/>
+    <file name="u3441-45.png" crc="4067851632" ref="eletrônicos"/>
+    <file name="u3375-45.png" crc="60931553" ref="eletrônicos"/>
+    <file name="u3453-45.png" crc="4067851632" ref="eletrônicos"/>
+    <file name="caixa_som_bluetooth_jbl_599,99-crop-u39325.jpg" crc="98148367" seo="true" ref="eletrônicos">
+      <caption webpage="eletrônicos" alt=""/>
+    </file>
+    <file name="u3446-45.png" crc="4290078871" ref="eletrônicos"/>
+    <file name="u3429-45.png" crc="4067851632" ref="eletrônicos"/>
+    <file name="u3416-45.png" crc="374915265" ref="eletrônicos"/>
+    <file name="u3395-45.png" crc="4067851632" ref="eletrônicos"/>
+    <file name="u4719-4.png" crc="137298158" ref="livros"/>
+    <file name="crepusculo sol da meia noite 54,00.jpg" crc="3907942935" seo="true" ref="livros:carrinho">
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u4684-4.png" crc="4193316053" ref="livros"/>
+    <file name="u4739-4.png" crc="195571402" ref="livros"/>
+    <file name="u5441-4.png" crc="195571402" ref="livros"/>
+    <file name="u5555-4.png" crc="195571402" ref="livros"/>
+    <file name="u5592-4.png" crc="195571402" ref="livros"/>
+    <file name="u5479-4.png" crc="195571402" ref="livros"/>
+    <file name="u5420-4.png" crc="195571402" ref="livros"/>
+    <file name="carrinho-crop-u4689.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="carrinho-crop-u5462.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="carrinho-crop-u5576.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="carrinho-crop-u5614.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="carrinho-crop-u5500.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="carrinho-crop-u5401.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="a cinco passos de voce 18,00.jpg" crc="362223552" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u4863-4.png" crc="4147879846" ref="livros"/>
+    <file name="carrinho-crop-u5728.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u5707-4.png" crc="195571402" ref="livros"/>
+    <file name="harry potter e a crian-a amaldi-oada - 20,00.jpg" crc="15383057" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="carrinho-crop-u6320.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u5009-4.png" crc="250455572" ref="livros"/>
+    <file name="u6301-4.png" crc="195571402" ref="livros"/>
+    <file name="colecao sherlock holmes 10 volumes - 30,00.jpg" crc="13128607" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="carrinho-crop-u6284.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u5002-4.png" crc="319885281" ref="livros"/>
+    <file name="u6263-4.png" crc="195571402" ref="livros"/>
+    <file name="prisioneiros da mente 30,00-crop-u4806.jpg" crc="318356194" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u5125-4.png" crc="3967455203" ref="livros"/>
+    <file name="carrinho-crop-u6556.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u6536-4.png" crc="195571402" ref="livros"/>
+    <file name="o diario de anne frank - 13,00.jpg" crc="4169906387" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u5118-4.png" crc="109393178" ref="livros"/>
+    <file name="carrinho-crop-u6520.png" crc="4082012187" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u6499-4.png" crc="195571402" ref="livros"/>
+    <file name="u4719-42.png" crc="4129762711" ref="livros"/>
+    <file name="u4684-42.png" crc="132235069" ref="livros"/>
+    <file name="u4739-42.png" crc="341537008" ref="livros"/>
+    <file name="u4863-42.png" crc="350609470" ref="livros"/>
+    <file name="u5420-42.png" crc="341537008" ref="livros"/>
+    <file name="u6301-42.png" crc="341537008" ref="livros"/>
+    <file name="u6536-42.png" crc="341537008" ref="livros"/>
+    <file name="u5707-42.png" crc="341537008" ref="livros"/>
+    <file name="u6263-42.png" crc="341537008" ref="livros"/>
+    <file name="u6499-42.png" crc="341537008" ref="livros"/>
+    <file name="u5009-42.png" crc="323458550" ref="livros"/>
+    <file name="u5441-42.png" crc="341537008" ref="livros"/>
+    <file name="u5002-42.png" crc="3885560127" ref="livros"/>
+    <file name="u5479-42.png" crc="341537008" ref="livros"/>
+    <file name="prisioneiros da mente 30,00-crop-u48062.jpg" crc="498166799" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u5125-42.png" crc="3975087981" ref="livros"/>
+    <file name="u5555-42.png" crc="341537008" ref="livros"/>
+    <file name="u5118-42.png" crc="4192762986" ref="livros"/>
+    <file name="u5592-42.png" crc="341537008" ref="livros"/>
+    <file name="u4719-43.png" crc="3848031710" ref="livros"/>
+    <file name="u4684-43.png" crc="130723847" ref="livros"/>
+    <file name="u4739-43.png" crc="195468699" ref="livros"/>
+    <file name="u4863-43.png" crc="4109341177" ref="livros"/>
+    <file name="u5420-43.png" crc="195468699" ref="livros"/>
+    <file name="u6301-43.png" crc="195468699" ref="livros"/>
+    <file name="u6536-43.png" crc="195468699" ref="livros"/>
+    <file name="u5707-43.png" crc="195468699" ref="livros"/>
+    <file name="u6263-43.png" crc="195468699" ref="livros"/>
+    <file name="u6499-43.png" crc="195468699" ref="livros"/>
+    <file name="u5009-43.png" crc="3892082544" ref="livros"/>
+    <file name="u5441-43.png" crc="195468699" ref="livros"/>
+    <file name="u5002-43.png" crc="174338699" ref="livros"/>
+    <file name="u5479-43.png" crc="195468699" ref="livros"/>
+    <file name="prisioneiros da mente 30,00-crop-u48063.jpg" crc="156637282" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u5125-43.png" crc="295768645" ref="livros"/>
+    <file name="u5555-43.png" crc="195468699" ref="livros"/>
+    <file name="u5118-43.png" crc="4222516831" ref="livros"/>
+    <file name="u5592-43.png" crc="195468699" ref="livros"/>
+    <file name="u4719-44.png" crc="296690898" ref="livros"/>
+    <file name="u4684-44.png" crc="3771913546" ref="livros"/>
+    <file name="u4739-44.png" crc="460727319" ref="livros"/>
+    <file name="u5441-44.png" crc="460727319" ref="livros"/>
+    <file name="u5555-44.png" crc="460727319" ref="livros"/>
+    <file name="u5592-44.png" crc="460727319" ref="livros"/>
+    <file name="u5479-44.png" crc="460727319" ref="livros"/>
+    <file name="u5420-44.png" crc="460727319" ref="livros"/>
+    <file name="u4863-44.png" crc="3763195685" ref="livros"/>
+    <file name="u6499-44.png" crc="460727319" ref="livros"/>
+    <file name="u5009-44.png" crc="284599434" ref="livros"/>
+    <file name="u6263-44.png" crc="460727319" ref="livros"/>
+    <file name="u5002-44.png" crc="3980440753" ref="livros"/>
+    <file name="u5707-44.png" crc="460727319" ref="livros"/>
+    <file name="prisioneiros da mente 30,00-crop-u48064.jpg" crc="399286265" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u5125-44.png" crc="75643307" ref="livros"/>
+    <file name="u6536-44.png" crc="460727319" ref="livros"/>
+    <file name="u5118-44.png" crc="219685118" ref="livros"/>
+    <file name="u6301-44.png" crc="460727319" ref="livros"/>
+    <file name="u4719-45.png" crc="374835649" ref="livros"/>
+    <file name="u4684-45.png" crc="113446316" ref="livros"/>
+    <file name="u4739-45.png" crc="516663746" ref="livros"/>
+    <file name="u5441-45.png" crc="516663746" ref="livros"/>
+    <file name="u5555-45.png" crc="516663746" ref="livros"/>
+    <file name="u5592-45.png" crc="516663746" ref="livros"/>
+    <file name="u5479-45.png" crc="516663746" ref="livros"/>
+    <file name="u5420-45.png" crc="516663746" ref="livros"/>
+    <file name="u4863-45.png" crc="4270171019" ref="livros"/>
+    <file name="u6499-45.png" crc="516663746" ref="livros"/>
+    <file name="u5009-45.png" crc="3996943929" ref="livros"/>
+    <file name="u6263-45.png" crc="516663746" ref="livros"/>
+    <file name="u5002-45.png" crc="361860933" ref="livros"/>
+    <file name="u5707-45.png" crc="516663746" ref="livros"/>
+    <file name="prisioneiros da mente 30,00-crop-u48065.jpg" crc="481911592" seo="true" ref="livros">
+      <caption webpage="livros" alt=""/>
+    </file>
+    <file name="u5125-45.png" crc="118879081" ref="livros"/>
+    <file name="u6536-45.png" crc="516663746" ref="livros"/>
+    <file name="u5118-45.png" crc="149824432" ref="livros"/>
+    <file name="u6301-45.png" crc="516663746" ref="livros"/>
+    <file name="u7095-4.png" crc="3887872909" ref="maquiagem"/>
+    <file name="1003460_kit-ruby-rose-pincel-linha-profissional-20-pinceis-maquiagem.jpg" crc="353858811" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u7102-4.png" crc="4193815983" ref="maquiagem"/>
+    <file name="carrinho-crop-u7494.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u7473-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="trio_uni_de_corretivo.jpg" crc="95676267" seo="true" ref="maquiagem:carrinho">
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u7083-4.png" crc="4041617433" ref="maquiagem"/>
+    <file name="u7077-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="u7067-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="u7009-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="u7043-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="u7092-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="u7029-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="u7039-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="u6995-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="u7055-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="carrinho-crop-u7035.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="carrinho-crop-u7084.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="carrinho-crop-u7048.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="carrinho-crop-u7070.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="carrinho-crop-u7002.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="carrinho-crop-u7086.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="carrinho-crop-u7040.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="carrinho-crop-u7056.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="carrinho-crop-u7045.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="paleta_de_sombra.jpg" crc="468048617" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u7072-4.png" crc="4257613942" ref="maquiagem"/>
+    <file name="carrinho-crop-u7016.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u7064-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="delineador-para-olhos-em-gel-preto-intense-16g.png" crc="4115047592" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u6989-4.png" crc="4273827057" ref="maquiagem"/>
+    <file name="carrinho-crop-u7006.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u7021-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="batom-liquido-matte-feels-ruby-rose.jpg" crc="211355055" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u7060-4.png" crc="4177540410" ref="maquiagem"/>
+    <file name="carrinho-crop-u7011.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u7100-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="base maquiagem rosto pele oleosa vitiligo cobrir cicatriz.jpg" crc="3961001953" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u7030-4.png" crc="3773824840" ref="maquiagem"/>
+    <file name="carrinho-crop-u7014.png" crc="4082012187" seo="true" ref="maquiagem">
+      <caption webpage="maquiagem" alt=""/>
+    </file>
+    <file name="u7025-4.png" crc="195571402" ref="maquiagem"/>
+    <file name="u7095-42.png" crc="3767779891" ref="maquiagem"/>
+    <file name="u7102-42.png" crc="342945669" ref="maquiagem"/>
+    <file name="u7064-42.png" crc="341537008" ref="maquiagem"/>
+    <file name="u7100-42.png" crc="341537008" ref="maquiagem"/>
+    <file name="u7025-42.png" crc="341537008" ref="maquiagem"/>
+    <file name="u7021-42.png" crc="341537008" ref="maquiagem"/>
+    <file name="u7083-42.png" crc="237983948" ref="maquiagem"/>
+    <file name="u7077-42.png" crc="341537008" ref="maquiagem"/>
+    <file name="u7067-42.png" crc="341537008" ref="maquiagem"/>
+    <file name="u7009-42.png" crc="341537008" ref="maquiagem"/>
+    <file name="u7043-42.png" crc="341537008" ref="maquiagem"/>
+    <file name="u7092-42.png" crc="341537008" ref="maquiagem"/>
+    <file name="u6989-42.png" crc="3768056481" ref="maquiagem"/>
+    <file name="u7029-42.png" crc="4075008466" ref="maquiagem"/>
+    <file name="u7072-42.png" crc="3986540325" ref="maquiagem"/>
+    <file name="u7055-42.png" crc="4075008466" ref="maquiagem"/>
+    <file name="u7473-42.png" crc="4075008466" ref="maquiagem"/>
+    <file name="u7060-42.png" crc="4116239534" ref="maquiagem"/>
+    <file name="u6995-42.png" crc="64218072" ref="maquiagem"/>
+    <file name="u7030-42.png" crc="3794627405" ref="maquiagem"/>
+    <file name="u7039-42.png" crc="64218072" ref="maquiagem"/>
+    <file name="u7095-43.png" crc="4112825516" ref="maquiagem"/>
+    <file name="u7102-43.png" crc="203158105" ref="maquiagem"/>
+    <file name="u7064-43.png" crc="195468699" ref="maquiagem"/>
+    <file name="u7100-43.png" crc="195468699" ref="maquiagem"/>
+    <file name="u7025-43.png" crc="195468699" ref="maquiagem"/>
+    <file name="u7021-43.png" crc="195468699" ref="maquiagem"/>
+    <file name="u7083-43.png" crc="3978267482" ref="maquiagem"/>
+    <file name="u7077-43.png" crc="195468699" ref="maquiagem"/>
+    <file name="u7067-43.png" crc="195468699" ref="maquiagem"/>
+    <file name="u7009-43.png" crc="195468699" ref="maquiagem"/>
+    <file name="u7043-43.png" crc="195468699" ref="maquiagem"/>
+    <file name="u7092-43.png" crc="195468699" ref="maquiagem"/>
+    <file name="u6989-43.png" crc="4129891320" ref="maquiagem"/>
+    <file name="u7029-43.png" crc="500792026" ref="maquiagem"/>
+    <file name="u7072-43.png" crc="3842218631" ref="maquiagem"/>
+    <file name="u7055-43.png" crc="500792026" ref="maquiagem"/>
+    <file name="u7473-43.png" crc="500792026" ref="maquiagem"/>
+    <file name="u7060-43.png" crc="372156439" ref="maquiagem"/>
+    <file name="u6995-43.png" crc="500792026" ref="maquiagem"/>
+    <file name="u7030-43.png" crc="3834402029" ref="maquiagem"/>
+    <file name="u7039-43.png" crc="500792026" ref="maquiagem"/>
+    <file name="u7095-44.png" crc="4185740324" ref="maquiagem"/>
+    <file name="u7102-44.png" crc="456764211" ref="maquiagem"/>
+    <file name="u7064-44.png" crc="460727319" ref="maquiagem"/>
+    <file name="u7100-44.png" crc="460727319" ref="maquiagem"/>
+    <file name="u7025-44.png" crc="460727319" ref="maquiagem"/>
+    <file name="u7021-44.png" crc="460727319" ref="maquiagem"/>
+    <file name="u7083-44.png" crc="111158298" ref="maquiagem"/>
+    <file name="u7077-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u7072-44.png" crc="3770565132" ref="maquiagem"/>
+    <file name="u7092-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u7029-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u7039-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u6995-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u7055-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u7473-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u6989-44.png" crc="384303033" ref="maquiagem"/>
+    <file name="u7067-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u7060-44.png" crc="4269196992" ref="maquiagem"/>
+    <file name="u7043-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u7030-44.png" crc="4218692863" ref="maquiagem"/>
+    <file name="u7009-44.png" crc="4043686443" ref="maquiagem"/>
+    <file name="u7095-45.png" crc="3979349008" ref="maquiagem"/>
+    <file name="u7102-45.png" crc="4153225091" ref="maquiagem"/>
+    <file name="u7064-45.png" crc="516663746" ref="maquiagem"/>
+    <file name="u7100-45.png" crc="516663746" ref="maquiagem"/>
+    <file name="u7025-45.png" crc="516663746" ref="maquiagem"/>
+    <file name="u7021-45.png" crc="516663746" ref="maquiagem"/>
+    <file name="u7083-45.png" crc="3892157254" ref="maquiagem"/>
+    <file name="u7077-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u7072-45.png" crc="4067419907" ref="maquiagem"/>
+    <file name="u7092-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u7029-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u7039-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u6995-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u7055-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u7473-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u6989-45.png" crc="3993049931" ref="maquiagem"/>
+    <file name="u7067-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u7060-45.png" crc="372156439" ref="maquiagem"/>
+    <file name="u7043-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u7030-45.png" crc="4164028738" ref="maquiagem"/>
+    <file name="u7009-45.png" crc="4067851632" ref="maquiagem"/>
+    <file name="u8423-4.png" crc="4234108754" ref="carrinho"/>
+    <file name="carrinho-crop-u8424.png" crc="4082012187" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8427-4.png" crc="195571402" ref="carrinho"/>
+    <file name="ring_light_celular_2,99-crop-u8652.jpg" crc="3886671328" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8626-4.png" crc="281245463" ref="carrinho"/>
+    <file name="carrinho-crop-u8627.png" crc="4082012187" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8638-4.png" crc="195571402" ref="carrinho"/>
+    <file name="u8784-4.png" crc="3868235461" ref="carrinho"/>
+    <file name="carrinho-crop-u8785.png" crc="4082012187" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8799-4.png" crc="195571402" ref="carrinho"/>
+    <file name="u8977-4.png" crc="4041617433" ref="carrinho"/>
+    <file name="carrinho-crop-u8978.png" crc="4082012187" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8998-4.png" crc="195571402" ref="carrinho"/>
+    <file name="u8423-42.png" crc="4127419729" ref="carrinho"/>
+    <file name="u8427-42.png" crc="86372930" ref="carrinho"/>
+    <file name="ring_light_celular_2,99-crop-u86522.jpg" crc="284686330" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8626-42.png" crc="225901080" ref="carrinho"/>
+    <file name="carrinho-crop-u86272.png" crc="151755787" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8638-42.png" crc="86372930" ref="carrinho"/>
+    <file name="u8784-42.png" crc="3993273669" ref="carrinho"/>
+    <file name="carrinho-crop-u87852.png" crc="151755787" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8799-42.png" crc="4274671435" ref="carrinho"/>
+    <file name="u8977-42.png" crc="124989882" ref="carrinho"/>
+    <file name="carrinho-crop-u89782.png" crc="151755787" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8998-42.png" crc="86372930" ref="carrinho"/>
+    <file name="u8423-43.png" crc="297113348" ref="carrinho"/>
+    <file name="u8427-43.png" crc="339647714" ref="carrinho"/>
+    <file name="ring_light_celular_2,99-crop-u86523.jpg" crc="195639549" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8626-43.png" crc="244442963" ref="carrinho"/>
+    <file name="u8638-43.png" crc="339647714" ref="carrinho"/>
+    <file name="u8784-43.png" crc="351187850" ref="carrinho"/>
+    <file name="carrinho-crop-u87853.png" crc="3814115303" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8799-43.png" crc="4165069568" ref="carrinho"/>
+    <file name="u8977-43.png" crc="151664631" ref="carrinho"/>
+    <file name="u8998-43.png" crc="339647714" ref="carrinho"/>
+    <file name="u8423-44.png" crc="4006468047" ref="carrinho"/>
+    <file name="u8427-44.png" crc="3837207728" ref="carrinho"/>
+    <file name="ring_light_celular_2,99-crop-u86524.jpg" crc="446781437" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8626-44.png" crc="4256527288" ref="carrinho"/>
+    <file name="u8638-44.png" crc="3837207728" ref="carrinho"/>
+    <file name="u8784-44.png" crc="336355617" ref="carrinho"/>
+    <file name="u8799-44.png" crc="4008980166" ref="carrinho"/>
+    <file name="u8977-44.png" crc="301821657" ref="carrinho"/>
+    <file name="u8998-44.png" crc="288471204" ref="carrinho"/>
+    <file name="u8423-45.png" crc="202795127" ref="carrinho"/>
+    <file name="u8427-45.png" crc="4067851632" ref="carrinho"/>
+    <file name="ring_light_celular_2,99-crop-u86525.jpg" crc="155113198" seo="true" ref="carrinho">
+      <caption webpage="carrinho" alt=""/>
+    </file>
+    <file name="u8626-45.png" crc="253001556" ref="carrinho"/>
+    <file name="u8638-45.png" crc="4067851632" ref="carrinho"/>
+    <file name="u8784-45.png" crc="263197494" ref="carrinho"/>
+    <file name="u8799-45.png" crc="3940982710" ref="carrinho"/>
+    <file name="u8977-45.png" crc="3851414915" ref="carrinho"/>
+    <file name="u8998-45.png" crc="4067851632" ref="carrinho"/>
+  </folder>
+  <file name="index.html" crc="4029173458" seo="true" mt="1625675902933" redirect="true"/>
+  <file name="home.html" crc="206134760" seo="true" mt="1625675819235" redirect="true"/>
+  <file name="acessorios.html" crc="4150546306" seo="true" mt="1625675819235" redirect="true"/>
+  <file name="eletrônicos.html" crc="4164814453" seo="true" mt="1625677560793" redirect="true"/>
+  <file name="livros.html" crc="297881842" seo="true" mt="1625675819235" redirect="true"/>
+  <file name="maquiagem.html" crc="408607369" seo="true" mt="1625675819235" redirect="true"/>
+  <file name="carrinho.html" crc="4163589373" seo="true" mt="1625675951760" redirect="true"/>
+</manifest>
