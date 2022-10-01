@@ -2,7 +2,7 @@
 
 ---
 
-<img align="right" width="150px" src="images/logo_flashpurchase.png">
+<img align="right" width="200px" src="images/logo_flashpurchase.png">
 
 <b>
 <p>⚡ FlashPurchase não é apenas uma, mas sim a melhor loja de compras online que você já viu!</p>
