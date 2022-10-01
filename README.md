@@ -48,4 +48,18 @@
 
 ##
 
+<b>Para a elaboração da parte escrita, planilha de clientes e slides, fiz a utilização do pacote office, como: </b>
+
+<img align="right" width="170px" src="img_readme/adobe-logo.png">
+
+<br>
+
+- Word;
+
+- Excel;
+
+- Power Point.
+
+##
+
 CONTINUA....
