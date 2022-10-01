@@ -42,11 +42,10 @@
 - Adobe Animator;
 - Adobe Premiere.
 
-
 ##
 
+<b>Mesmo com a utilização do pacote adobe, foi necessário o conhecimento em HTML5 e CSS3 para aprimorar o código muse.</b>
 
-
-
+##
 
 
