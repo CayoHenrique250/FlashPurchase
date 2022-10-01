@@ -50,7 +50,7 @@
 
 <b>Para a elaboração da parte escrita, planilha de clientes e slides, fiz a utilização do pacote office, como: </b>
 
-<img align="right" width="170px" src="img_readme/adobe-logo.png">
+<img align="right" width="120px" src="img_readme/Office.png">
 
 <br>
 
