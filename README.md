@@ -70,7 +70,7 @@
 
 - Material de Marketing:
 <div>
-    <img align="left" width="17%" src="img_readme/Folheto.png">
+    <img align="left" width="25%" src="img_readme/Folheto.png">
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -80,7 +80,7 @@
 
 - Palheta de cores:
 
-    <img align="left" width="20%" src="img_readme/Palheta_logo.png">    
+    <img align="left" width="30%" src="img_readme/Palheta_logo.png">    
 </b>
 
 <br><br><br><br><br><br>
