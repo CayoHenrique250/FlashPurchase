@@ -72,7 +72,7 @@
 
     <img align="left" width="170px" src="img_readme/Folheto.png">
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 - Vídeo promocional:
     
@@ -82,10 +82,10 @@
 
     <img align="left" width="150px" src="img_readme/Palheta_logo.png">    
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 - Download do app:
 
-
+https://drive.google.com/file/d/1rQtZl1bRO_OU3sg5nAkZEgbxNa6DASY9/view?usp=drivesdk
 
 </b>
