@@ -37,7 +37,7 @@
 - Adobe Muse;
 - Adobe Illustrator;
 - Adobe Photoshop;
-- Adobe Animator;
+- Adobe Animate;
 - Adobe Premiere.
 
 ##
@@ -62,7 +62,15 @@
 
 <h2>🖼 Materiais de apoio: </h2>
 
+<b>
 
+- Slides:
+
+- Material de Marketing:
+
+- Ilustração promocional: 
+
+</b>
 
 
 
