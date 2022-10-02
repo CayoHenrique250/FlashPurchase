@@ -30,7 +30,7 @@
 
 <b>Para a criação do site e da elaboração da parte gráfica, utilizei algumas ferramentas do pacote adobe, tais como: </b>
 
-<img align="right" width="170px" src="img_readme/adobe-logo.png">
+<img align="right" width="150px" src="img_readme/adobe-logo.png">
 
 <br>
 
@@ -68,7 +68,17 @@
 
 - Material de Marketing:
 
-- Ilustração promocional: 
+<div>
+    <img align="left" width="20%" src="img_readme/Folheto.png">
+</div>
+
+<br>
+
+- Vídeo promocional: 
+
+<video width="320" height="240" controls> 
+    <source src="img_readme/Vídeo_App.mp4" type="video/mp4">
+</video>
 
 </b>
 
