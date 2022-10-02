@@ -69,11 +69,11 @@
     
 
 - Material de Marketing:
-<div>
-    <img align="left" width="25%" src="img_readme/Folheto.png">
-</div>
 
-<br><br><br><br><br><br><br><br><br><br>
+    <img align="left" width="25%" src="img_readme/Folheto.png">
+
+
+<br><br><br><br><br><br><br><br><br>
 
 - Vídeo promocional:
     
