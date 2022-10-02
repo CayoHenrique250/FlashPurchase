@@ -20,15 +20,13 @@
 
 <h2>👨‍💻 Detalhes técnicos: </h2>
 
-##
 
 <p>Isso tratou-se se um <b>Trabalho de Conclusão do Curso (TCC)</b> onde possuia como objetivo demonstrar todas as habilidades adquiridas durante o desenvolvimento do curso.</p>
 
 ---
 
-<h4>💿 Ficha técnica: </h4>
+<h2>💿 Ficha técnica: </h2>
 
-##
 
 <b>Para a criação do site e da elaboração da parte gráfica, utilizei algumas ferramentas do pacote adobe, tais como: </b>
 
@@ -60,6 +58,28 @@
 
 - Power Point.
 
-##
+---
+
+<h2>🖼 Materiais de apoio: </h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 CONTINUA....
