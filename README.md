@@ -66,40 +66,26 @@
 
 - Slides:
 
-    
+    https://drive.google.com/file/d/1rOwfWgiJhBv2H2uOhDVkgvjGvhC1bx0e/view?usp=drivesdk
 
 - Material de Marketing:
 
-    <img align="left" width="25%" src="img_readme/Folheto.png">
+    <img align="left" width="170px" src="img_readme/Folheto.png">
 
-
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 - Vídeo promocional:
     
+    https://drive.google.com/file/d/1rHRT6XcwG-OZLOWZVZ2GWaKfzhUFy1XZ/view?usp=drivesdk
 
 - Palheta de cores:
 
-    <img align="left" width="30%" src="img_readme/Palheta_logo.png">    
+    <img align="left" width="150px" src="img_readme/Palheta_logo.png">    
+
+<br><br><br><br><br><br><br><br>
+
+- Download do app:
+
+
+
 </b>
-
-<br><br><br><br><br><br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-CONTINUA....
